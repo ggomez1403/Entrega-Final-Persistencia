@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="chat-final:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/chat_final_jar</output-path>
+    <root id="archive" name="chat-final.jar">
+      <element id="module-output" name="chat-final" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Escritorio/W10/ojdbc11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
